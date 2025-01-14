@@ -12,7 +12,7 @@ A growing library of PowerShell scripts to automate tasks, streamline workflows,
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ps-playbook.git
+   git clone https://github.com/joelwisdom/ps-playbook.git
    ```
 2. Navigate to the directory:
    ```bash
